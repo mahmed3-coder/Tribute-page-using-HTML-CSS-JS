@@ -1,0 +1,22 @@
+body {
+  font-family: system-ui;
+  background: gray;
+  color: black;
+  text-align: center;
+}
+ul {
+  list-style-position: inside;
+  display: block;
+  margin: 0 auto;
+}
+img {
+ 
+   max-width: 100%;
+  display: block;
+   height: auto;
+  margin: 0 auto;
+  
+  
+}
+
+
